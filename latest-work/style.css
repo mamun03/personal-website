@@ -1,0 +1,71 @@
+body{
+    font-family:'Open Sans';
+}
+h1{
+    font-size: 50px;
+}
+#name-color{
+    color: deeppink;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left:2;
+}
+h3{
+    color: royalblue;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("bcimg/header-bg.png");
+background-repeat: no-repeat;
+}
+section{
+    height:500px;
+    padding-bottom: 170px;
+}
+body{
+    margin: 0;
+}
+.link-button{
+    text-decoration: none;
+    background-color: deeppink;
+    background-image: linear-gradient(270deg, rgb(214, 132, 146), deeppink);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    width:900;
+
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: slategray;
+}
+.biography{
+    background-image: url("bcimg/biography-bg.png");
+}
+.my-work img{
+    width: 25%;
+    height: 300px;
+    float: left;
+    margin-left:5%;
+    padding-left:2;
+
+}
+#work{
+    text-align: center;
+}
+#footer{
+    text-align: center;
+    font-size: 25px;
+}
+.contact{
+    text-align: center;
+  box-shadow: 5px 5px 5px rgb(165, 81, 120);
+ 
+}
